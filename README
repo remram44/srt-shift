@@ -1,0 +1,10 @@
+  srt-shift, par Rémi RAMPIN "remram44" <remirampin@gmail.com>
+
+  Ce programme permet de recaler un fichier de sous-titre .srt sur une vidéo, en
+appliquant une modification affine par morceaux. Regardez la vidéo avec les
+sous-titres et notez la position d'un sous-titre et la position à laquelle il
+devrait être ; chacun de ces couples est un "point" que vous entrez dans le
+programme. Pour la plupart des sous-titres, il vous suffira de rentrer deux
+points (un vers le début de la vidéo et un vers la fin, par exemple), mais il
+peut arriver que vous observiez quand même des désynchronisation au milieu de la
+vidéo. Dans ce cas, il vous suffit de rajouter un point.
